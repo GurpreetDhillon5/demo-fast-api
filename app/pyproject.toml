@@ -9,6 +9,7 @@ python = "^3.10"
 pandas = "^1.4.3"
 fastapi = "^0.79.1"
 uvicorn = "^0.18.3"
+Jinja2 = "^3.1.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
